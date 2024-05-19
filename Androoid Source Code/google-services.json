@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "84554832704",
+    "project_id": "ai-eras",
+    "storage_bucket": "ai-eras.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84554832704:android:86ac02a4381018f0e7b8a5",
+        "android_client_info": {
+          "package_name": "com.example.aiattendance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8bl8gIE7-KEfT5RmnFJK_P3lzzoTKo5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

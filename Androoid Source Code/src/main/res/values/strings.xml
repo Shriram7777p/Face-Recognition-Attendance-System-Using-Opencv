@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Ai Attendance</string>
+    <string name="logout">Logout</string>
+    <string name="submit">Submit</string>
+    <string name="passw">Password</string>
+    <string name="ln">Last Name</string>
+    <string name="fn">First Name</string>
+    <string name="ei">E-mail Id</string>
+    <string name="h1">AI Face Recoganization Attence App</string>
+    <string name="h2">Sign Up Page</string>
+    <string name="h3">Add Account</string>
+    <string name="h4">Sign In Page</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
